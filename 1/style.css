@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+.container{
+    width: 1000px;
+    justify-content: center;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+.fullp{
+    padding: 10px;
+       background-color: white;
+    height: 20px;
+     color: grey;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+.div2,.div3,.div4{
+    display:flex;
+    column-gap: 10px;
+}
+
+
+.p2{
+    background-color: white;
+    width: calc(1000px / 3);
+    height: 20px;
+     color: GREY;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+}
+.p3{
+      background-color: white;
+    width: calc(1000px / 2);
+    height: 20px;
+     color: grey;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+.p4{
+        background-color: white;
+    width:calc(1000px / 4);
+    height: 20px;
+     color: grey;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}

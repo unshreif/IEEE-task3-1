@@ -1,0 +1,55 @@
+div{
+    width: 400px;
+    text-align: center;
+    background-color:rgb(237, 235, 235);
+    border: 2px solid;
+    margin-top: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 17px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.top-left{
+    background-color: blue;
+    color: white;
+    width: 25px;
+    height: 20px;
+    position: fixed;
+    top:09%;
+    left: 36%;
+    box-shadow: 2px 0px 1px red ;
+}
+.bottom-left{
+   background-color: blue;
+    color: white;
+    width: 25px;
+    height: 20px;
+    position: fixed;
+    bottom: 69%;
+    left: 36%;
+     box-shadow: 2px 0px 1px red ;
+}
+.top-right{
+    background-color: blue;
+    color: white;
+    width: 25px;
+    height: 20px;
+    position: fixed;
+    top: 9%;
+    right: 36%;
+    box-shadow: -2px 0px 0px 0px red ;
+}
+.bottom-right{
+     background-color: blue;
+    color: white;
+    width: 25px;
+    height: 20px;
+    position: fixed;
+    bottom: 69%;
+    right: 36%;
+    box-shadow: -2px 0px 0px 0px red ;
+}

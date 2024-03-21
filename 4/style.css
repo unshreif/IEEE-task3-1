@@ -1,0 +1,60 @@
+body{
+    background-color:whitesmoke;
+}
+thead{
+    height: 40px;
+    font-size: 14px;
+     background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    width: 700px;
+    border: none;
+    text-align: center;
+    background-color: rgba(148, 147, 147, 0.611);
+    border-bottom-color: wheat;
+}
+td{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.i1{
+    width: 70px;
+}
+.i3{
+    width: 70px;
+    height: 50px;
+}
+.a1{
+   background-color: red;
+    color: white;
+    font-size: 8px;
+    height: 15px;
+    width: 60px;
+    border: none;
+    border-radius: 3px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a2{
+  background-color: rebeccapurple;
+    color: white;
+    font-size: 8px;
+    height: 15px;
+    width: 60px;
+    border-radius: 3px;
+    border: none;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a1:hover{
+    background-color: grey;
+    cursor: pointer;
+}
+.a2:hover{
+  background-color: grey;
+    cursor: pointer;
+}
+div{
+    background-color: green;
+    width: 700px;
+    height: 2px;
+}

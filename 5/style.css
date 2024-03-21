@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.div2{
+    background-color: red;
+    height: 60px;
+    width: 300px;
+    margin:10px;
+}
+.div1,.div3 {
+    width:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    color: black;
+    font-size: 30px;
+    background-color: rgb(224, 217, 217);
+    margin: 10px;
+}
